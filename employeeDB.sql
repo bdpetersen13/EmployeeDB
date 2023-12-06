@@ -102,3 +102,19 @@ FOREIGN KEY (employee_id) REFERENCES employees(employee_id);
 ALTER TABLE training
 ADD CONSTRAINT fk_employee_training
 FOREIGN KEY (employee_id) REFERENCES employees(employee_id);
+
+-- Enable auto-increment for the Employee ID column
+ALTER TABLE employees
+ALTER COLUMN employee_id SET DEFAULT nextval('employees_employee_id_seq'::regclass);
+
+-- Add NOT NULL constraints to employees table
+ALTER TABLE employees
+ALTER COLUMN first_name SET NOT NULL,
+ALTER COLUMN last_name SET NOT NULL,
+ALTER COLUMN date_of_birth SET NOT NULL,
+ALTER COLUMN date_of_hire SET NOT NULL;
+
+-- Define data types for contact information
+ALTER TABLE employees
+ALTER COLUMN contact_number SET DATA TYPE VARCHAR,
+ADD COLUMN email_address VARCHAR(100); 
