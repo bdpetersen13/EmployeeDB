@@ -1,0 +1,51 @@
+department_id,manager_id,location,department_name
+1,2,Remote,Human Resources
+2,5,Houston TX,Finance
+3,8,Washington D.C.,Marketing
+4,11,Houston TX,IT Services
+5,14,Remote,Research and Development
+6,17,Houston TX,Sales
+7,20,Washington D.C.,Customer Support
+8,23,Remote,Legal
+9,26,Washington D.C.,Operations
+10,29,Remote,Quality Assurance
+11,32,Washington D.C.,Facilities Management
+12,35,Remote,Public Relations
+13,38,Houston TX,Product Management
+14,41,Houston TX,Information Security
+15,44,Remote,Data Analytics
+16,47,Washington D.C.,Supply Chain Management
+17,1,Remote,Employee Relations
+18,4,Houston TX,Financial Planning
+19,7,Washington D.C.,Brand Management
+20,10,Remote,Software Development
+21,13,Washington D.C.,Strategic Planning
+22,16,Remote,Technical Support
+23,19,Houston TX,Accounting
+24,22,Remote,Training and Development
+25,25,Washington D.C.,Logistics
+26,28,Remote,Corporate Communications
+27,31,Houston TX,Network Administration
+28,34,Washington D.C.,Customer Experience
+29,37,Remote,Health and Safety
+30,40,Washington D.C.,Business Intelligence
+31,43,Houston TX,Project Management
+32,46,Houston TX,Compliance
+33,49,Remote,Internal Audit
+34,2,Washington D.C.,Event Planning
+35,5,Houston TX,Market Research
+36,8,Remote,Data Science
+37,11,Houston TX,Social Media Management
+38,14,Washington D.C.,Brand Development
+39,17,Remote,Software Testing
+40,20,Houston TX,Client Services
+41,23,Remote,Graphic Design
+42,26,Washington D.C.,Legal Compliance
+43,29,Houston TX,Web Development
+44,32,Remote,Quality Control
+45,35,Houston TX,Purchasing
+46,38,Washington D.C.,Employee Training
+47,41,Remote,Business Development
+48,44,Houston TX,Information Governance
+49,47,Washington D.C.,Vendor Management
+50,1,Houston TX,Internal Communications
