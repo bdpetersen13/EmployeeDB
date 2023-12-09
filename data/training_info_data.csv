@@ -1,0 +1,11 @@
+training_id,employee_id,training_program,certification,date_completed
+1,1,Leadership Development Program,Leadership Certification,2022-02-20
+2,2,Customer Service Training,Customer Service Certification,2021-12-10
+3,3,Inventory Management Workshop,Inventory Management Certification,2022-01-05
+4,4,Marketing Strategies Seminar,Marketing Certification,2022-03-15
+5,5,Product Knowledge Training,Product Knowledge Certification,2021-11-30
+6,6,Problem-Solving Workshop,Problem-Solving Certification,2022-01-20
+7,7,Communication Skills Training,Communication Certification,2021-12-01
+8,8,Project Management Course,Project Management Certification,2022-02-10
+9,9,Leadership Development Program,Leadership Certification,2022-01-25
+10,10,Customer Service Training,Customer Service Certification,2021-11-15

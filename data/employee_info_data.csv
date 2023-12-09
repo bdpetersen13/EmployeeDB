@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,date_of_birth,phone_number,email_address,address,emergency_contact_name,emergency_contact_number,date_of_hire,department_id,role_id
+1,Alexander,King,1985-05-15,(555) 123-4567,john.doe@example.com,123 Main St,Emily Doe,(555) 555-3257,2022-01-10,1,2
+2,Katie,Wattson,1988-09-22,(555) 987-6543,jane.smith@example.com,456 Oak St,Michael Smith,(555) 555-8352,2021-11-05,2,3
+3,David,Johnson,1990-04-18,(555) 555-1212,david.johnson@example.com,789 Pine St,Susan Johnson,(555) 202-5509,2022-02-20,1,1
+4,Emily,Williams,1987-12-05,(555) 789-0123,emily.williams@example.com,101 Elm St,Christopher Williams,(555) 832-4575,2022-03-15,3,4
+5,Megan,Anderson,1993-07-30,(555) 111-2233,megan.anderson@example.com,202 Cedar St,Robert Anderson,(555) 204-4392,2021-10-08,2,5
+6,Brian,Miller,1989-02-14,(555) 333-4444,brian.miller@example.com,303 Birch St,Karen Miller,(555) 555-8743,2021-09-01,1,3
+7,Olivia,Davis,1992-06-27,(555) 444-5555,olivia.davis@example.com,404 Spruce St,Michael Davis,(555) 433-0277,2021-12-18,2,2
+8,Christopher,White,1986-11-10,(555) 666-7777,christopher.white@example.com,505 Fir St,Amy White,(555) 234-6457,2022-04-02,3,4
+9,Sophia,Wilson,1991-03-25,(555) 888-9999,sophia.wilson@example.com,606 Maple St,William Wilson,(555) 659-6652,2022-02-10,1,5
+10,Aiden,Thomas,1984-08-08,(555) 000-1111,aiden.thomas@example.com,707 Sycamore St,Emma Thomas,(555) 324-0947,2021-11-25,2,1

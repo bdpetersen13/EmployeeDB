@@ -1,0 +1,11 @@
+review_id,employee_id,review_date,performance_metrics,feedback
+1,1,2022-03-01,Exceeded expectations,Alexander consistently demonstrated outstanding performance and exceeded all targets.
+2,2,2022-02-15,Meets expectations,Katie consistently meets performance expectations and contributes positively to the team.
+3,3,2022-04-05,Needs improvement,David has shown areas that need improvement, particularly in meeting project deadlines.
+4,4,2022-03-20,Exceeded expectations,Emily's performance has consistently exceeded expectations, especially in handling challenging tasks.
+5,5,2022-02-10,Meets expectations,Megan meets performance expectations and contributes effectively to team projects.
+6,6,2022-01-25,Exceeded expectations,Brian's performance consistently exceeds expectations, especially in problem-solving.
+7,7,2022-04-15,Meets expectations,Olivia meets performance expectations and demonstrates excellent customer service skills.
+8,8,2022-02-28,Needs improvement,Christopher needs improvement in meeting project deadlines and collaboration with team members.
+9,9,2022-03-10,Exceeded expectations,Sophia consistently exceeds performance expectations and shows exceptional leadership skills.
+10,10,2022-01-15,Meets expectations,Aiden meets performance expectations and effectively collaborates with team members.
